@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incdec", "Incdec\Incdec.csproj", "{95BB00E8-A3F5-42E5-A371-8F8DB7B89BDA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{28A4A73A-0035-4AAD-A683-2B3678B7C52D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{95BB00E8-A3F5-42E5-A371-8F8DB7B89BDA}.Release|x64.Build.0 = Release|Any CPU
 		{95BB00E8-A3F5-42E5-A371-8F8DB7B89BDA}.Release|x86.ActiveCfg = Release|Any CPU
 		{95BB00E8-A3F5-42E5-A371-8F8DB7B89BDA}.Release|x86.Build.0 = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|x64.Build.0 = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Debug|x86.Build.0 = Debug|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x64.ActiveCfg = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x64.Build.0 = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x86.ActiveCfg = Release|Any CPU
+		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
