@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incdec", "Incdec\Incdec.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cilindro", "Cilindro\Cilindro.csproj", "{28A4A73A-0035-4AAD-A683-2B3678B7C52D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValoresEspeciais", "ValoresEspeciais\ValoresEspeciais.csproj", "{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x64.Build.0 = Release|Any CPU
 		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x86.ActiveCfg = Release|Any CPU
 		{28A4A73A-0035-4AAD-A683-2B3678B7C52D}.Release|x86.Build.0 = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Debug|x86.Build.0 = Debug|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|x64.Build.0 = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|x86.ActiveCfg = Release|Any CPU
+		{F2A88F20-DE13-4C1C-BE37-9FDFA4A6A3CC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
